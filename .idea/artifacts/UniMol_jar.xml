@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="UniMol:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/UniMol_jar</output-path>
+    <root id="archive" name="UniMol.jar">
+      <element id="module-output" name="UniMol" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/joml-1.7.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/lwjgl/jar/lwjgl.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/lib/lwjgl/native" />
+    </root>
+  </artifact>
+</component>
