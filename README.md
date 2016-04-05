@@ -4,7 +4,7 @@ a project aiming to reproduce RasMol's functionnality with a factor of 100 compu
 
 ## Planned Features:
 - GPU accelerated Rendering
-- GPU accelerated physics
+- GPU accelerated Physics
 - CPU multithreading for GPU-Less legacy systems
 - well documented and extendable cross platform cross library source
 
